@@ -18,7 +18,7 @@ public class Account extends javax.swing.JInternalFrame {
         autoID();
     }
     
-    
+ 
     
     @SuppressWarnings("unchecked")
     
